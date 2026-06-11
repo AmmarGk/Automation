@@ -1,0 +1,6 @@
+Downloaded_RFQs/
+.vscode/
+.env
+*.pkl
+*.xlsx
+Failed_Downloads.txt
